@@ -1,0 +1,24 @@
+# dependencies
+node_modules/
+
+# production
+/dist/
+/build/
+/dist-react/
+/dist-electron/
+
+# misc
+.DS_Store
+.env
+.env.*
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite
+.vite/
+
+# OS
+Thumbs.db
